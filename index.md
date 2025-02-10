@@ -5,9 +5,9 @@ Based in Antwerp, Belgium
 
 ## About
 
-I bridge the gap between consulting, academy, engineering, and applied research in AI. 
+I support companies with applied research in AI bridging the gap between [consulting](https://faktion.com), [academia](https://scholar.google.com/citations?hl=en&user=_sgWaQQAAAAJ) and [engineering](http://github.com/arianpasquali). 
 
-**Core Skills:**
+### Core Skills
 - Machine Learning
 - Natural Language Processing
 - Large Language Models

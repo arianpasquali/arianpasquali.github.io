@@ -1,5 +1,3 @@
-# Arian Pasquali
-
 Machine Learning Engineer specialized in NLP, Generative AI, AI Agents and AI Red Teaming  
 Based in Antwerp, Belgium  
 [arianpasquali@gmail.com](mailto:arianpasquali@gmail.com)

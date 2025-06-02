@@ -1,0 +1,11 @@
+mkdocs-material
+mkdocs-material[imaging]
+mkdocs-rss-plugin
+mkdocstrings
+mkdocstrings-python
+mkdocs-minify-plugin
+mkdocs-redirects
+python-frontmatter
+instructor
+rich
+typer

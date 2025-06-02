@@ -23,7 +23,6 @@ My work involves designing AI Soltuions, architecting LLM agents and implementin
 I'm always excited to discuss AI evaluation methodologies, share insights about LLM implementation challenges, or explore potential collaborations. Whether you're looking to improve your AI systems or discuss the latest in generative AI evaluation, I'd love to connect.
 
 [:material-calendar: Book a Meeting](http://cal.com/arianpasquali){ .md-button .md-button--primary }
-*Let's discuss your AI challenges and how evaluation-driven development can accelerate your success*
 
 ## Featured Work & Insights
 

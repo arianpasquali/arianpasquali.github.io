@@ -15,7 +15,7 @@ I'm a AI Engineer at [Faktion](https://faktion.com/), specialized in Generative 
 
 My work involves designing AI Soltuions, architecting LLM agents and implementing structured evaluation processes for AI Assistants.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/arianpasquali){ .md-button .md-button--primary }
+[:material-linkedin: Connect on LinkedIn](https://www.linkedin.com/in/arianpasquali){ .md-button .md-button--primary }
 [Download My CV](cv.pdf){ .md-button .md-button--secondary }
 
 ## Let's Connect

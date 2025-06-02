@@ -13,11 +13,9 @@ tags:
 
 # Hi
 
-I'm a Machine Learning Engineer at [Faktion](https://faktion.com/), specializing in Generative AI evaluation methodologies. 
+I'm a AI Engineer at [Faktion](https://faktion.com/), specialized in Generative AI evaluation methodologies. 
 
-My work involves architecting LLM agents, implementing structured evaluation processes for AI Assistants, and developing quantitative metrics that accurately predict user satisfaction through correlation studies between LLM-as-a-Judge and user preference in AB testing.
-
-I'm passionate about evaluation-driven development for GenAI, creating methodologies that optimize domain expert time while maintaining data quality and confidence levels. When I'm not building evaluation pipelines, I contribute to open source projects and share insights about systematic AI improvement.
+My work involves designing AI Soltuions, architecting LLM agents and implementing structured evaluation processes for AI Assistants.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/arianpasquali){ .md-button .md-button--primary }
 [Download My CV](cv.pdf){ .md-button .md-button--secondary }

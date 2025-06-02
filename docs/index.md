@@ -11,8 +11,6 @@ tags:
 - Open Source
 ---
 
-# Hi
-
 I'm a AI Engineer at [Faktion](https://faktion.com/), specialized in Generative AI evaluation methodologies. 
 
 My work involves designing AI Soltuions, architecting LLM agents and implementing structured evaluation processes for AI Assistants.

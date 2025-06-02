@@ -20,10 +20,10 @@ jobs:
           python-version: '3.x'
 
       - name: Install MkDocs Material Dependencies
-        run: pip install -r requirements-doc.txt
+        run: pip install mkdocs-material mkdocs-material[imaging] mkdocs-rss-plugin mkdocstrings mkdocstrings-python mkdocs-minify-plugin mkdocs-redirects python-frontmatter instructor rich typer
 
       - name: Build MkDocs
-        run: ./build_mkdocs.sh
+        run: mkdocs build
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force

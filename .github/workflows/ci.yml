@@ -20,7 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install MkDocs Material Dependencies
-        run: pip install mkdocs-material mkdocs-material[imaging] mkdocs-rss-plugin mkdocstrings mkdocstrings-python mkdocs-minify-plugin mkdocs-redirects python-frontmatter instructor rich typer
+        run: pip install -r requirements-doc.txt
 
       - name: Build MkDocs
         run: mkdocs build

@@ -150,8 +150,6 @@ This phase focuses on creating accessible interfaces for both users and develope
 - Creating visualizations of feedback patterns and trends
 - Providing metrics on positive vs. negative feedback ratios
 
-![Answer Evaluation A/B Test](images/answer-evaluation-ab-test.png)
-
 The observability infrastructure I design is lightweight yet comprehensive, capturing both system performance data and user sentiment. By integrating feedback collection directly into the user interface, I ensure high participation rates and create a continuous stream of evaluation data.
 
 ## Phase 4: Beyond Observability - Generating Actionable Insights

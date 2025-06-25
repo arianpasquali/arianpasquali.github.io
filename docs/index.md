@@ -35,7 +35,6 @@ I write extensively about LLM evaluation, enterprise AI adoption challenges, and
 
 ### Key Insights & Publications
 
-[Learn about my evaluation methodologies](writing/2025/05/03/my-evaluation-driven-development-journey){ .md-button .md-button--primary }
 [View all writing](writing/){ .md-button .md-button--secondary }
 
 ## Open Source Contributions
